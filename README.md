@@ -1,79 +1,90 @@
-# 👋 Hi, I'm VIKRAM ADHIKARI
+# 👋 Hi, I'm Vikram
 
-🎓 Computer Science Engineering Student  
-💻 Aspiring Software Engineer | Programmer | Tech Enthusiast  
-📍 India  
+🎓 Computer Science Student | 💻 Software Developer | 🚀 Tech Enthusiast  
+
+Welcome to my GitHub profile!  
+I am a passionate computer science student with a strong interest in software development, system design, and problem-solving. I enjoy building efficient applications and continuously improving my technical skills through hands-on projects.
 
 ---
 
-## 🚀 About Me
-I am a motivated Computer Science Engineering student with a strong interest in software development and problem-solving.  
-I enjoy building real-world projects, learning core computer science concepts, and continuously improving my technical skills.
+## 🧑‍💻 About Me
+
+- 🎓 Currently pursuing a degree in Computer Science / Engineering  
+- 💡 Interested in Software Development, System Programming, and AI-based solutions  
+- 🔍 Focused on writing clean, optimized, and scalable code  
+- 🌱 Always learning new technologies and best practices  
+- 🤝 Open to internships, collaborative projects, and open-source contributions  
 
 ---
 
 ## 🛠️ Technical Skills
 
-### Programming Languages
+**Programming Languages**  
 - C  
 - C++  
 - Python  
 - Java (Basics)
 
-### Core Concepts
-- Data Structures & Algorithms  
+**Core Concepts**  
+- Data Structures and Algorithms  
 - Object-Oriented Programming (OOP)  
 - Operating Systems  
 - Computer Architecture  
-- Compiler Design  
+- Database Fundamentals  
 
-### Tools & Technologies
+**Tools & Technologies**  
 - Git & GitHub  
 - VS Code  
-- Linux (Basics)
+- MySQL  
+- Linux Basics  
 
 ---
 
-## 📂 Projects
+## 📌 Projects
 
 ### 🔹 QuickBill – Python POS Software
-- Point of Sale (POS) system for small retailers  
+- Billing and inventory management system for small retailers  
 - Barcode scanner integration  
-- Invoice generation and report export  
+- Report generation and data export  
+- User-friendly interface with optimized performance  
 
-### 🔹 Academic Mini Projects
-- Student Mark Management System  
-- Library Book Record System  
-- Employee Salary Management System  
+### 🔹 Banking System with Fraud Detection
+- Secure transaction handling system  
+- Fraud detection using Machine Learning techniques  
+- Real-time alert system  
+- Modular architecture for scalability  
 
-*(More projects coming soon 🚀)*
-
----
-
-## 📚 Currently Learning
-- Advanced Data Structures  
-- System Programming  
-- Machine Learning Basics  
-- Competitive Programming  
+### 🔹 Academic & Mini Projects
+- System-level C and C++ programs  
+- Data structure implementations  
+- Algorithm-based problem solving  
+- College research-oriented applications  
 
 ---
 
-## 🤝 Connect With Me
-- 📧 Email: **vikramAdhikari26@gmail.com**  
-- 💼 LinkedIn: [Vikram Adhikari](https://www.linkedin.com/in/vikram-r-0b0031388)
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact)
 
 ---
 
-## ⭐ GitHub Activity
-- Actively contributing to academic and personal projects  
-- Open to internships, collaborations, and open-source work  
+## 📫 Contact
+
+- 📧 Email: yourname@email.com  
+- 💼 LinkedIn: https://linkedin.com/in/yourprofile  
+- 🌐 Portfolio: (optional)
 
 ---
 
-### ⚡ Fun Fact
-I enjoy coding, solving logical problems, and organizing gaming events 🎮  
+## ⚡ Highlights
+
+- Strong foundation in C and C++ programming  
+- Experience in academic research and real-world projects  
+- Good understanding of low-level system concepts  
+- Passionate about learning and building impactful software  
 
 ---
 
-**Thanks for visiting my GitHub profile! 😊**  
-Feel free to check out my repositories and connect with me.
+⭐ Feel free to explore my repositories and connect with me!
