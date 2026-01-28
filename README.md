@@ -61,13 +61,6 @@ I am a passionate computer science student with a strong interest in software de
 - College research-oriented applications  
 
 ---
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact)
-
 ---
 
 ## 📫 Contact
