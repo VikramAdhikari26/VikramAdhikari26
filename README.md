@@ -1,82 +1,111 @@
 # 👋 Hi, I'm Vikram
 
-🎓 Computer Science Student | 💻 Software Developer | 🚀 Tech Enthusiast  
+🎓 Computer Science Student | 💻 Software Developer | 🚀 Tech Enthusiast
 
-Welcome to my GitHub profile!  
-I am a passionate computer science student with a strong interest in software development, system design, and problem-solving. I enjoy building efficient applications and continuously improving my technical skills through hands-on projects.
+Welcome to my GitHub profile! I am a passionate Computer Science student focused on building efficient, scalable, and real-world software solutions. I enjoy system-level programming, backend development, and AI-based applications.
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🎓 Currently pursuing a degree in Computer Science / Engineering  
-- 💡 Interested in Software Development, System Programming, and AI-based solutions  
-- 🔍 Focused on writing clean, optimized, and scalable code  
-- 🌱 Always learning new technologies and best practices  
-- 🤝 Open to internships, collaborative projects, and open-source contributions  
+* 🎓 Pursuing Bachelor's Degree in Computer Science / Engineering
+* 💡 Interested in Software Development, System Programming, and AI
+* ⚙️ Strong focus on performance, optimization, and clean code
+* 🌱 Continuously learning new technologies and development practices
+* 🤝 Open to internships, open-source, and collaborative projects
 
 ---
 
-## 🛠️ Technical Skills
+## 🚀 Tech Stack
 
-**Programming Languages**  
-- C  
-- C++  
-- Python  
-- Java (Basics)
+### 👨‍💻 Programming Languages
 
-**Core Concepts**  
-- Data Structures and Algorithms  
-- Object-Oriented Programming (OOP)  
-- Operating Systems  
-- Computer Architecture  
-- Database Fundamentals  
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java" />
+</p>
 
-**Tools & Technologies**  
-- Git & GitHub  
-- VS Code  
-- MySQL  
-- Linux Basics  
+### 🧠 Core Concepts
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,git,github" />
+</p>
+
+* Data Structures and Algorithms
+* Object-Oriented Programming
+* Operating Systems
+* Computer Architecture
+* Database Fundamentals
+
+### 🛠️ Tools & Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,mysql,linux" />
+</p>
 
 ---
 
-## 📌 Projects
+## 📌 Featured Projects
 
 ### 🔹 QuickBill – Python POS Software
-- Billing and inventory management system for small retailers  
-- Barcode scanner integration  
-- Report generation and data export  
-- User-friendly interface with optimized performance  
+
+🔗 https://github.com/yourusername/QuickBill
+
+* Billing and inventory management system
+* Barcode scanner integration
+* Report generation and export
+* Optimized and user-friendly interface
+
+---
 
 ### 🔹 Banking System with Fraud Detection
-- Secure transaction handling system  
-- Fraud detection using Machine Learning techniques  
-- Real-time alert system  
-- Modular architecture for scalability  
 
-### 🔹 Academic & Mini Projects
-- System-level C and C++ programs  
-- Data structure implementations  
-- Algorithm-based problem solving  
-- College research-oriented applications  
+🔗 https://github.com/yourusername/Banking-Fraud-Detection
+
+* Secure banking transaction system
+* Fraud detection using Machine Learning
+* Real-time alert and monitoring
+* Scalable modular architecture
 
 ---
+
+### 🔹 Academic & System Projects
+
+🔗 https://github.com/yourusername
+
+* System-level programming in C/C++
+* Data structure implementations
+* Algorithm-based solutions
+* Research-based academic projects
+
 ---
 
-## 📫 Contact
+## 📊 GitHub Stats
 
-- 📧 Email: yourname@email.com  
-- 💼 LinkedIn: https://linkedin.com/in/yourprofile  
-- 🌐 Portfolio: (optional)
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
+</p>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 Contact Me
+
+📧 Email: [yourname@email.com](mailto:yourname@email.com)
+💼 LinkedIn: https://linkedin.com/in/yourprofile
+🌐 Portfolio: https://yourportfolio.com
+🐙 GitHub: https://github.com/yourusername
 
 ---
 
 ## ⚡ Highlights
 
-- Strong foundation in C and C++ programming  
-- Experience in academic research and real-world projects  
-- Good understanding of low-level system concepts  
-- Passionate about learning and building impactful software  
+* Strong foundation in C, C++, and Python
+* Experience in real-world software projects
+* Knowledge in system design and architecture
+* Passionate about building efficient software
 
 ---
 
