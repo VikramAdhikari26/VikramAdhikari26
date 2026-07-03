@@ -2,40 +2,54 @@
 
 <div align="center">
 
-### Computer Science Engineering Student • Software Developer • AI & Backend Enthusiast
+### 💻 Computer Science Engineering Student • Software Developer • AI & Full Stack Enthusiast
 
-Building scalable software, intelligent systems, and modern web applications.
+Building intelligent applications, modern web experiences, and scalable software solutions.
 
-[![Profile Views](https://komarev.com/ghpvc/?username=VikramAdhikari26\&label=Profile%20Views\&color=0e75b6\&style=flat)](https://github.com/VikramAdhikari26)
-[![GitHub followers](https://img.shields.io/github/followers/VikramAdhikari26?style=social)](https://github.com/VikramAdhikari26)
+<p>
+  <a href="https://github.com/VikramAdhikari26">
+    <img src="https://komarev.com/ghpvc/?username=VikramAdhikari26&label=Profile%20Views&color=0e75b6&style=flat" />
+  </a>
+
+  <a href="https://github.com/VikramAdhikari26?tab=followers">
+    <img src="https://img.shields.io/github/followers/VikramAdhikari26?style=social" />
+  </a>
+</p>
 
 </div>
 
 ---
 
-## 💫 About Me
+# 👨‍💻 About Me
 
-🎓 B.E. Computer Science Engineering Student
+🎓 Computer Science Engineering Student
 
-💻 Passionate about Software Development, AI, and Backend Engineering
+💡 Passionate about Software Development, Artificial Intelligence, and Full Stack Development.
 
-🌱 Currently learning **Advanced Web Development, Machine Learning, and System Design**
+🚀 I enjoy designing scalable applications, solving real-world problems, and continuously learning modern technologies.
 
-🚀 Interested in solving real-world problems using modern technologies
+🌱 Currently exploring:
 
-⚡ I enjoy building clean, scalable, and user-friendly applications.
+* Artificial Intelligence
+* Full Stack Development
+* System Design
+* Cloud Computing
+* Open Source
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="center">
+
 <a href="https://github.com/VikramAdhikari26">
-<img src="https://skillicons.dev/icons?i=github" height="45"/>
+<img src="https://skillicons.dev/icons?i=github" height="50"/>
 </a>
 
+  
+
 <a href="https://www.linkedin.com/in/vikram-r-0b0031388/">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
 </a>
 
 </p>
@@ -53,7 +67,7 @@ Building scalable software, intelligent systems, and modern web applications.
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
 </p>
 
 ### Backend
@@ -71,62 +85,68 @@ Building scalable software, intelligent systems, and modern web applications.
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux,postman" />
 </p>
 
 ---
 
 # 🚀 Featured Projects
 
-## 🛒 QuickBill
+## 🤖 Humanly
 
-A modern Point of Sale (POS) application built for small businesses.
+**AI-powered writing assistant that transforms AI-generated text into natural, human-like content.**
 
-### Features
+**Tech Stack:** Next.js • React • TypeScript • Tailwind CSS • AI
 
-* Inventory Management
-* Barcode Scanner Integration
-* Sales Analytics
-* Invoice Generation
-* Customer Management
-* Fast Billing System
+✨ AI Text Humanization
 
----
+🎨 Modern UI/UX
 
-## 🛡 Banking System with Fraud Detection
+⚡ Fast & Responsive
 
-A secure banking application integrated with Machine Learning techniques to detect fraudulent transactions.
+🔒 Privacy-focused
 
-### Highlights
-
-* Secure Authentication
-* Real-time Transaction Monitoring
-* Fraud Prediction
-* Transaction History
-* Modular Architecture
+📱 Mobile Friendly
 
 ---
 
-## 🌐 Humanly
+## 👕 UrbanWear
 
-An AI-powered web application that transforms AI-generated content into natural, human-like writing.
+**A modern fashion e-commerce platform with a clean, premium shopping experience.**
 
-### Features
+**Tech Stack:** React • JavaScript • Tailwind CSS • Vite
 
-* AI Text Humanization
-* Modern Next.js UI
-* Responsive Design
-* Clean User Experience
+🛍️ Product Catalog
+
+🔍 Search & Filters
+
+❤️ Wishlist
+
+🛒 Shopping Cart
+
+📱 Responsive Design
 
 ---
 
-## 🗺 Smart Campus Navigation
+## ✋ FluxMotion
 
-Navigation platform that helps students locate classrooms, departments, and campus facilities using interactive maps.
+**Computer vision application that enables touch-free interaction using real-time hand gesture recognition.**
+
+**Tech Stack:** Python • OpenCV • MediaPipe
+
+🤚 Real-time Hand Tracking
+
+🎯 Gesture Recognition
+
+⚡ Optimized Performance
+
+🖥️ Touchless Interaction
+
+🔬 AI & Computer Vision
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Statistics
 
 <p align="center">
 
@@ -148,7 +168,7 @@ Navigation platform that helps students locate classrooms, departments, and camp
 
 ---
 
-# 📈 Activity Graph
+# 📈 Contribution Graph
 
 <p align="center">
 
@@ -162,7 +182,7 @@ Navigation platform that helps students locate classrooms, departments, and camp
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=VikramAdhikari26&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=VikramAdhikari26&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"/>
 
 </p>
 
@@ -180,29 +200,18 @@ Navigation platform that helps students locate classrooms, departments, and camp
 
 # 🎯 Current Focus
 
-* 🚀 Full Stack Development
-* 🤖 Artificial Intelligence & Machine Learning
-* ⚡ Backend Engineering
+* 🤖 Artificial Intelligence
+* 🌐 Full Stack Development
+* ⚙️ Backend Engineering
 * 🧠 Data Structures & Algorithms
-* 🌍 Open Source Contributions
-
----
-
-# 📚 Currently Exploring
-
-* Next.js
-* System Design
-* Cloud Computing
-* Docker
-* REST APIs
-* Generative AI
+* 🚀 Open Source Contributions
 
 ---
 
 <div align="center">
 
-### "Code. Learn. Build. Improve. Repeat."
+### ⭐ Thanks for visiting my profile!
 
-⭐ If you like my work, consider following me on GitHub.
+*"Turning ideas into impactful software, one project at a time."*
 
 </div>
