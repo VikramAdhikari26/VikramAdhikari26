@@ -104,15 +104,6 @@ Contribution Activity
 
 <div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=VikramAdhikari26&theme=github-dark&hide_border=true&area=true" /></div>---
 
-Current Focus
-
-Artificial Intelligence      ███████████████████░░
-Full Stack Development       ███████████████████░░
-Backend Engineering          ████████████████░░░░░
-System Design                ██████████████░░░░░░░
-Cloud & Deployment            █████████████░░░░░░░░
-Open Source                  ████████████░░░░░░░░░
-
 Currently exploring:
 
 - Artificial Intelligence & LLM applications
